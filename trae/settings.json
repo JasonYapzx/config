@@ -1,0 +1,18 @@
+{
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "files.associations": {
+    "*.tsx": "typescriptreact"
+  },
+  "window.systemColorTheme": "dark",
+  "latex-workshop.linting.chktex.convertOutput.column.enabled": false,
+  "AI.chatLanguage": "English",
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "workbench.iconTheme": "catppuccin-mocha",
+  "workbench.statusBar.visible": false,
+  "editor.fontSize": 12,
+  "workbench.sideBar.location": "right",
+  "editor.fontLigatures": false,
+  "editor.tabSize": 2,
+  "editor.fontFamily": "MesloLGS NF",
+  "window.titleBarStyle": "custom",
+}
